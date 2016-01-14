@@ -1,7 +1,7 @@
 name: incuriousfilms.com
 favicon: null
-layout_spectrum: 0.36061802972108126
-typography_spectrum: 0.4881578723434359
+layout_spectrum: 1
+typography_spectrum: 0.82666
 cta:
   domain: null
   bucket: null
