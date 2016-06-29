@@ -1,6 +1,6 @@
 name: incuriousfilms.com
 favicon: null
-layout_spectrum: 0.91895
+layout_spectrum: 0.24867
 typography_spectrum: 0.82666
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#767c8b'
     - '#b2b4b1'
   brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  lightness: 0.0625
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
